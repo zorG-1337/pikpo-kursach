@@ -1,0 +1,195 @@
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.exe
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.deps.json
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.json
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.dev.json
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.AssemblyReference.cache
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.LoginForm.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.GenerateResource.cache
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfoInputs.cache
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfo.cs
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CoreCompileInputs.cache
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.genruntimeconfig.cache
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AdminPanel.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.UserPanel.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.admission.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.book_catalog.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.sale.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.search.resources
+D:\C++ Project\PIKPO_KURSACH\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.supplier_directory.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.exe
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.deps.json
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.json
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.dev.json
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.AssemblyReference.cache
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AdminPanel.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.admission.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.book_catalog.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.sale.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.search.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.supplier_directory.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.LoginForm.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.UserPanel.resources
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.GenerateResource.cache
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.GeneratedMSBuildEditorConfig.editorconfig
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfoInputs.cache
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfo.cs
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CoreCompileInputs.cache
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.genruntimeconfig.cache
+F:\Kursach\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForUserPanel.Profile.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.exe
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.deps.json
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.json
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.dev.json
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.AssemblyReference.cache
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AdminPanel.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.book_catalog.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForUserPanel.Profile.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.LoginForm.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.UserPanel.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.GenerateResource.cache
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfoInputs.cache
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfo.cs
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CoreCompileInputs.cache
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.genruntimeconfig.cache
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForAdminPanel.Users.resources
+C:\Users\merri\Desktop\kurshach\Kursach_pikpo\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.Properties.Resources.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.exe
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.deps.json
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.json
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.dev.json
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.AssemblyReference.cache
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AdminPanel.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.book_catalog.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForAdminPanel.Users.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForUserPanel.Profile.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.LoginForm.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.Properties.Resources.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.UserPanel.resources
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.GenerateResource.cache
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfoInputs.cache
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfo.cs
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CoreCompileInputs.cache
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CopyComplete
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\refint\PIKPO_KURSACH.dll
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.genruntimeconfig.cache
+C:\Users\bossv\OneDrive\Рабочий стол\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.exe
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.deps.json
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.json
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.runtimeconfig.dev.json
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.SqlServer.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\EntityFramework.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\System.Data.SQLite.EF6.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.AssemblyReference.cache
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AdminPanel.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsFromAdminPanel.book_catalog.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForAdminPanel.Users.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.FormsForUserPanel.Profile.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.LoginForm.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.Properties.Resources.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.UserPanel.resources
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.GenerateResource.cache
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfoInputs.cache
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.AssemblyInfo.cs
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CoreCompileInputs.cache
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.csproj.CopyComplete
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\refint\PIKPO_KURSACH.dll
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.pdb
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\PIKPO_KURSACH.genruntimeconfig.cache
+C:\Kursach_pikpo-main\PIKPO_KURSACH\obj\Debug\net5.0-windows\ref\PIKPO_KURSACH.dll
